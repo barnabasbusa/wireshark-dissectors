@@ -1,0 +1,8 @@
+.git
+.github
+test-data
+*.md
+LICENSE
+Makefile
+test.sh
+.readme
